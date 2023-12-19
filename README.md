@@ -6,7 +6,7 @@ this is just a repo that contain my insanity, im a nerd (kinda). well this not a
 Container Ship:
 --
 1. Lines Plan :
-   - [ ] Siste Ship
+   - [ ] Sister Ship
    - [ ] 900 TEUs
    - [ ] 1200 TEUs
 2. Resistance & Power Calculation
@@ -17,7 +17,7 @@ Container Ship:
 Bulk Carrier Ship:
 --
 1. Lines Plan :
-   - [ ] Sistem Ship
+   - [ ] Sister Ship
    - [ ] 10.000 DWT
    - [ ] 20.000 DWT
 3. Resistance & Power Calculation
